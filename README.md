@@ -1,28 +1,28 @@
 # KI-Kleinprojekt
 
-# Idea
+# Idee
 
-## Product Idea
+## Produktidee
 
-AI Study Summary Helper
+KI Lern-Zusammenfasser
 
 ## Problem
 
-Students often struggle to identify the most important information in long texts.
+Schüler und Studenten haben oft Schwierigkeiten, die wichtigsten Informationen aus langen Texten zu erkennen.
 
-## Goal
+## Ziel
 
-Build a small tool that summarizes text and highlights key points.
+Ein kleines Tool, das Texte automatisch zusammenfasst und die wichtigsten Punkte hervorhebt.
 
-## Core Use Cases
+## Kernfunktionen
 
-* input a text
-* get a short summary
-* get key bullet points
+* Texteingabe
+* kurze Zusammenfassung
+* wichtigste Stichpunkte
 
-## Why this idea works for the workshop
+## Warum diese Idee gut ist
 
-* easy to understand
-* no coding context required
-* useful in everyday life
-* very small scope
+* einfach verständlich
+* kein technischer Kontext nötig
+* alltagsnah und nützlich
+* sehr kleiner Projektumfang
